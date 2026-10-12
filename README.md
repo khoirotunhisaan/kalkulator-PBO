@@ -4,6 +4,12 @@ Kalkulator GUI berbasis **Java Swing** dengan tampilan retro pixel art. Dilengka
 
 ---
 
+## 👥 Anggota Pengembang
+- **Khoirotun Hisan Br.B**
+- **Nabil Al Fijar**
+- **Audzan Valy Hafidza**
+- **Shandy Aprilliko Hartianto**
+
 ## ✨ Fitur
 
 ### 🎨 Tampilan
