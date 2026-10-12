@@ -80,8 +80,8 @@ javac Kalkulator.java
 # 3. Jalankan
 java Kalkulator
 
----
+```
 
-**## 🖼️ Contoh Aplikasi**
+## 🖼️ Contoh Aplikasi
 <img width="718" height="1281" alt="image" src="https://github.com/user-attachments/assets/b6e938b8-da8a-4e7f-9464-6f6a2adfe3d4" />
 <img width="758" height="1084" alt="image" src="https://github.com/user-attachments/assets/cd4d2592-6749-4f45-8b72-12396227f8e9" />
